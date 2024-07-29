@@ -1,6 +1,19 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+DOMAIN-SUFFIX,rss-node.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,sunlogin.net
+DOMAIN-SUFFIX,sinbreak.com
+DOMAIN-SUFFIX,download.nvidia.com
+
+DOMAIN-KEYWORD,oray
+DOMAIN-KEYWORD,sunlogin
+
+
+IP-CIDR,47.75.152.35/32,no-resolve
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
