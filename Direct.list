@@ -7,9 +7,11 @@ DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,sunlogin.net
 DOMAIN-SUFFIX,sinbreak.com
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,cursor.sh
 
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,sunlogin
+DOMAIN-KEYWORD,cursor
 
 
 IP-CIDR,47.75.152.35/32,no-resolve
