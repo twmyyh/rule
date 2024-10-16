@@ -1,0 +1,12 @@
+#包括常用软件或应用的破解和去广告规则
+
+#sublime
+DOMAIN-SUFFIX,activate.navicat.com
+DOMAIN-SUFFIX,license.sublimehq.com
+DOMAIN-SUFFIX,www.sublimetext.com
+DOMAIN-SUFFIX,sublimetext.com
+DOMAIN-SUFFIX,sublimehq.com
+DOMAIN-SUFFIX,telemetry.sublimehq.com
+IP-CIDR,45.55.255.55/32,no-resolve
+IP-CIDR,45.55.255.55/32,no-resolve
+
